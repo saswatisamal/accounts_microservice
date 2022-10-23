@@ -16,6 +16,7 @@ public class AccountsApplication {
 
 	public static void main(String[] args) {
 		logger.info("Accounts Microservice::::::");
+		System.out.println("Hello");ßß
 		SpringApplication.run(AccountsApplication.class, args);
 	}
 
